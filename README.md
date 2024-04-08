@@ -1,4 +1,4 @@
-# YouTube 추천 알고리즘 리버스 엔지니어링
+# YouTube 추천 알고리즘 리버스 엔지니어링 [[project-link]](https://github.com/orgs/yeardream-final-project-06team/repositories))
 
 ## 프로젝트 개요
 - **프로젝트 한 줄 설명:**
@@ -41,14 +41,10 @@
     - Elasticsearch 크롤링 데이터 저장
 - **데이터 분석:**
     - TF-IDF
+    - 코사인 유사도 판단 -> 선택한 영상과 유사한 영상제시
 - **데이터 시각화:**
     - Kibana를 이용해 대시보드
 <img width="1716" alt="Untitled" src="https://github.com/znkus1/final-project/assets/130662133/3950c465-4bb9-4ac6-971b-8f267cdd6c2c">
-
-## 프로젝트 결과
-
-- **모델의 성능:**
-- **배포 링크:**
 
 ## 프로젝트 회고
 
