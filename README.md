@@ -1,4 +1,4 @@
-# YouTube 추천 알고리즘 리버스 엔지니어링 [[project-link]](https://github.com/orgs/yeardream-final-project-06team/repositories))
+# YouTube 추천 알고리즘 리버스 엔지니어링 [[project-link]](https://github.com/orgs/yeardream-final-project-06team/repositories)
 
 ## 프로젝트 개요
 - **프로젝트 한 줄 설명:**
