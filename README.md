@@ -18,6 +18,8 @@
 - **데이터 출처, 용량, 특징:**
     - 약 100개의 임의의 페르소나와 해당되는 키워드
     - YouTube 크롤링을 통해서 약 40만개의 데이터 수집
+      
+![architecture](https://github.com/znkus1/final-project/assets/130662133/8d3f4bf3-1067-463b-85ff-598662ff6846)
 
 ## 프로젝트 진행 단계
 
@@ -39,6 +41,7 @@
     - TF-IDF
 - **데이터 시각화:**
     - Kibana를 이용해 대시보드
+<img width="1716" alt="Untitled" src="https://github.com/znkus1/final-project/assets/130662133/3950c465-4bb9-4ac6-971b-8f267cdd6c2c">
 
 ## 프로젝트 결과
 
